@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ema-john-pagination-client-site.iml" filepath="$PROJECT_DIR$/.idea/ema-john-pagination-client-site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ema-john-pagination-server-site/.idea/ema-john-pagination-server-site.iml" filepath="$PROJECT_DIR$/../ema-john-pagination-server-site/.idea/ema-john-pagination-server-site.iml" />
     </modules>
   </component>
 </project>
